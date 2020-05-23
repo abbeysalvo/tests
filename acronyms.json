@@ -201,7 +201,8 @@
   },
   {
     "abbreviation": "CMS",
-    "expansion": "Centers for Medicare and Medicaid Services"
+    "expansion": "Centers for Medicare and Medicaid Services",
+    "priority":1
   },
   {
     "abbreviation": "CMS",
