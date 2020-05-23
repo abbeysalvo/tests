@@ -951,8 +951,8 @@
   {
     "abbreviation": "RAI",
     "expansion": "Request for Additional Information",
-    "description": "Possible CMS action for Official SPA Submission Package during submission process"
-    "priority":1;
+    "description": "Possible CMS action for Official SPA Submission Package during submission process",
+    "priority":1
   },
   {
     "abbreviation": "RAC",
