@@ -1,203 +1,350 @@
 [
   {
     "abbreviation": "AAC",
-    "title": "Actual Acquisition Cost"
+    "title": "Actual Acquisition Cost",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "AAP",
-    "title": "American Academy of Pediatrics"
+    "title": "American Academy of Pediatrics",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ABA",
-    "title": "Applied Behavioral Analysis"
+    "title": "Applied Behavioral Analysis",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ABP",
-    "title": "Medicaid Alternative Benefit Plan"
+    "title": "Medicaid Alternative Benefit Plan",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ACA",
     "title": "Affordable Care Act",
-    "description": "Patient Protection and Affordable Care Act of 2010"
+    "short-desc": "Patient Protection and Affordable Care Act of 2010",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ACC",
-    "title": "Accountable Care Collaborative"
+    "title": "Accountable Care Collaborative",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ACF",
-    "title": "Administration for Children and Families"
+    "title": "Administration for Children and Families",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ACIP",
-    "title": "Advisory Committee on Immunization Practices"
+    "title": "Advisory Committee on Immunization Practices",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ACO",
-    "title": "Accountable Care Organization"
+    "title": "Accountable Care Organization",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ADT",
-    "title": "Admissions, Discharges, Transfers"
+    "title": "Admissions, Discharges, Transfers",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ACS",
-    "title": "American Community Survey"
+    "title": "American Community Survey",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ADA",
-    "title": "Americans with Disabilities Act"
+    "title": "Americans with Disabilities Act",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ADD",
-    "title": "Attention Deficit Disorder"
+    "title": "Attention Deficit Disorder",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ADHD",
-    "title": "Attention Deficit Hyperactivity Disorder"
+    "title": "Attention Deficit Hyperactivity Disorder",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "AIU",
-    "title": "Adopt, Implement, Upgrade"
+    "title": "Adopt, Implement, Upgrade",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "APCD",
-    "title": "All Payer Claims Database"
+    "title": "All Payer Claims Database",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "API",
-    "title": "Application Programming Interface"
+    "title": "Application Programming Interface",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "APD",
-    "title": "Advanced Planning Document"
+    "title": "Advanced Planning Document",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "APM",
-    "title": "Alternative Payment Model"
+    "title": "Alternative Payment Model",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "AQM",
-    "title": "Adult Quality Measures"
+    "title": "Adult Quality Measures",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ARRA",
-    "title": "American Recovery and Reinvestment Act"
+    "title": "American Recovery and Reinvestment Act",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ATCB",
-    "title": "Authorized Testing and Certification Body"
+    "title": "Authorized Testing and Certification Body",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ATO",
-    "title": "Authority to Operate"
+    "title": "Authority to Operate",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "BA",
-    "title": "Business Associates"
+    "title": "Business Associates",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "BI",
-    "title": "Business Intelligence"
+    "title": "Business Intelligence",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "BIP",
-    "title": "Balancing Incentive Program"
+    "title": "Balancing Incentive Program",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "C&S",
-    "title": "Conditions and Standards"
+    "title": "Conditions and Standards",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CAH",
-    "title": "Critical Access Hospital"
+    "title": "Critical Access Hospital",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CALiPHR",
-    "title": "CQM (Clinical Quality Measures) Aligned Population Health Reporting"
+    "title": "CQM (Clinical Quality Measures) Aligned Population Health Reporting",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CARTS",
     "title": "Children’s Health Insurance Program Annual Report Template System",
-    "description": "One of the five separate systems within MACPro"
+    "short-desc": "One of the five separate systems within MACPro",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CAHPG",
     "title": "Children and Adults Health Programs Group",
-    "description": "One of seven groups within CMCS"
+    "short-desc": "One of seven groups within CMCS",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CBES",
-    "title": "State Children's Health Insurance Budget and Expenditure System"
+    "title": "State Children's Health Insurance Budget and Expenditure System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CCD",
-    "title": "Continuity of Care Document"
+    "title": "Continuity of Care Document",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CCIIO",
-    "title": "Center for Consumer Information and Insurance Oversight"
+    "title": "Center for Consumer Information and Insurance Oversight",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CCN",
-    "title": "CMS Certification Number"
+    "title": "CMS Certification Number",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CCR",
-    "title": "Continuity of Care Record"
+    "title": "Continuity of Care Record",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CDA",
-    "title": "Clinical Document Architecture"
+    "title": "Clinical Document Architecture",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CDC",
-    "title": "Centers for Disease Control and Prevention"
+    "title": "Centers for Disease Control and Prevention",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CDR",
-    "title": "Clinical Data Repository"
+    "title": "Clinical Data Repository",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CDS",
-    "title": "Clinical Decision Support"
+    "title": "Clinical Decision Support",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CDT",
-    "title": "Custom Data Type"
+    "title": "Custom Data Type",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CDT",
-    "title": "Current Dental Terminology"
+    "title": "Current Dental Terminology",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CE",
-    "title": "Covered Entities"
+    "title": "Covered Entities",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CEHRT",
-    "title": "Certified Electronic Health Record Technology"
+    "title": "Certified Electronic Health Record Technology",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CFR",
-    "title": "Technology Code of Federal Regulations"
+    "title": "Technology Code of Federal Regulations",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CHIP",
-    "title": "Children’s Health Insurance Program"
+    "title": "Children’s Health Insurance Program",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CHPL",
-    "title": "Certified Health Information Technology Products List"
+    "title": "Certified Health Information Technology Products List",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CICD",
-    "title": "Continuous Integration/Continuous Delivery"
+    "title": "Continuous Integration/Continuous Delivery",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CMCS",
     "title": "Center for Medicaid and CHIP (Children’s Health Insurance) Services",
-    "description": "Responsible for the administration of the Medicaid and CHIP programs, in partnership with 50 states, DC, and five territories"
+    "short-desc": "Responsible for the administration of the Medicaid and CHIP programs, in partnership with 50 states, DC, and five territories",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CMS",
@@ -206,985 +353,1699 @@
   },
   {
     "abbreviation": "CMS",
-    "title": "Content Management System"
+    "title": "Content Management System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CMSDS",
-    "title": "CMS Design System"
+    "title": "CMS Design System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CNM",
-    "title": "Certified Nurse Midwife"
+    "title": "Certified Nurse Midwife",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CO",
-    "title": "Central Office"
+    "title": "Central Office",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CoP",
-    "title": "Community of Practice"
+    "title": "Community of Practice",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CPC",
-    "title": "Comprehensive Primary Care"
+    "title": "Comprehensive Primary Care",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CPOC",
     "title": "CMS Point of Contact",
-    "description": "MACPro CMS role"
+    "short-desc": "MACPro CMS role",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CPOE",
-    "title": "Computerized Physician Order Entry"
+    "title": "Computerized Physician Order Entry",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CPT",
     "title": "Current Procedural Terminology",
-    "description": "Applies to CPT codes"
+    "short-desc": "Applies to CPT codes",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CQM",
-    "title": "Child Quality Measures"
+    "title": "Child Quality Measures",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CQM",
-    "title": "Clinical Quality Measures"
+    "title": "Clinical Quality Measures",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CRA",
-    "title": "CMS Role Approver"
+    "title": "CMS Role Approver",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CRISP",
-    "title": "Chesapeake Regional Information System for our Patients"
+    "title": "Chesapeake Regional Information System for our Patients",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CSA",
-    "title": "CMS System Administrator"
+    "title": "CMS System Administrator",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CSD",
-    "title": "Clinical Services Discovery"
+    "title": "Clinical Services Discovery",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "CY",
-    "title": "Calendar Year"
+    "title": "Calendar Year",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "DAM",
-    "title": "Data-Access Module"
+    "title": "Data-Access Module",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "DDI",
-    "title": "Design, Develop, Implement"
+    "title": "Design, Develop, Implement",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "DEHPG",
     "title": "Disabled and Elderly Health Programs Group",
-    "description": "One of seven groups within CMCS"
+    "short-desc": "One of seven groups within CMCS",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "DICOM",
-    "title": "Digital Imaging and Communications in Medicine"
+    "title": "Digital Imaging and Communications in Medicine",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "Drools",
     "title": "Data and Systems Group",
-    "description": "Business rule management system, aka a production rule system, using an enhanced implementation of the Rete algorithm"
+    "short-desc": "Business rule management system, aka a production rule system, using an enhanced implementation of the Rete algorithm",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "DSG",
     "title": "Data and Systems Group",
-    "description": "One of seven groups within CMCS"
+    "short-desc": "One of seven groups within CMCS",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "DSH",
-    "title": "Disproportionate Share Hospital"
+    "title": "Disproportionate Share Hospital",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "DSM",
-    "title": "Direct Secure Messaging"
+    "title": "Direct Secure Messaging",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "E&E",
-    "title": "Eligibility & Enrollment"
+    "title": "Eligibility & Enrollment",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "eAPD",
-    "title": "Electronic Advanced Planning Document"
+    "title": "Electronic Advanced Planning Document",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "EB",
-    "title": "Enrollment Benefits"
+    "title": "Enrollment Benefits",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "eCQM",
-    "title": "Electronic Clinical Quality Measure"
+    "title": "Electronic Clinical Quality Measure",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "eCQMR",
-    "title": "Electronic Clinical Quality Measures Repository"
+    "title": "Electronic Clinical Quality Measures Repository",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "EFI",
-    "title": "Enterprise User Administration (EUA) Front-End Interface"
+    "title": "Enterprise User Administration (EUA) Front-End Interface",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "EG",
     "title": "Eligibility Group",
-    "description": "Normally followed by a priority number"
+    "short-desc": "Normally followed by a priority number",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "EH",
-    "title": "Eligible Hospital"
+    "title": "Eligible Hospital",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "EHR",
-    "title": "Electronic Health Record"
+    "title": "Electronic Health Record",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "EIDM",
-    "title": "Enterprise Identity Management"
+    "title": "Enterprise Identity Management",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ELR",
-    "title": "Electronic Laboratory Record"
+    "title": "Electronic Laboratory Record",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "eMAR",
-    "title": "Electronic Medication Administration Record"
+    "title": "Electronic Medication Administration Record",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "EP",
-    "title": "Eligible Professional"
+    "title": "Eligible Professional",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "EPHI",
-    "title": "Electronic Protected Health Information"
+    "title": "Electronic Protected Health Information",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "EPSDT",
-    "title": "Early and Periodic Screening, Diagnostic, and Treatment"
+    "title": "Early and Periodic Screening, Diagnostic, and Treatment",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "EQRO",
-    "title": "External Quality Review Organization"
+    "title": "External Quality Review Organization",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "eRx",
-    "title": "Electronic Prescribing"
+    "title": "Electronic Prescribing",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ESB",
-    "title": "Enterprise Service Bus"
+    "title": "Enterprise Service Bus",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "EUA",
-    "title": "Enterprise User Administration"
+    "title": "Enterprise User Administration",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "EUA",
-    "title": "End User Application"
+    "title": "End User Application",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FAQ",
-    "title": "Frequently Asked Question"
+    "title": "Frequently Asked Question",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FAQs",
-    "title": "Frequently Asked Questions"
+    "title": "Frequently Asked Questions",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FCC",
-    "title": "Federal Communications Commission"
+    "title": "Federal Communications Commission",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FedRAMP",
-    "title": "Federal Risk and Authorization Management Program"
+    "title": "Federal Risk and Authorization Management Program",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FERPA",
-    "title": "Family Educational Rights and Privacy Act"
+    "title": "Family Educational Rights and Privacy Act",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FFP",
-    "title": "Federal Financial Participation"
+    "title": "Federal Financial Participation",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FFS",
-    "title": "Fee-for-Service"
+    "title": "Fee-for-Service",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FFY",
-    "title": "Federal Fiscal Year"
+    "title": "Federal Fiscal Year",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FHIR",
-    "title": "Fast Healthcare Interoperability Resources"
+    "title": "Fast Healthcare Interoperability Resources",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FISMA",
-    "title": "Federal Information Security Management Act"
+    "title": "Federal Information Security Management Act",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FMAP",
-    "title": "Federal Medical Assistance Percentage"
+    "title": "Federal Medical Assistance Percentage",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FMG",
     "title": "Financial Management Group",
-    "description": "One of seven groups within CMCS"
+    "short-desc": "One of seven groups within CMCS",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FQHC",
-    "title": "Federally Qualified Health Center"
+    "title": "Federally Qualified Health Center",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FR",
-    "title": "Federal Regulation(s)"
+    "title": "Federal Regulation(s)",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FTP",
-    "title": "File Transfer Protocal"
+    "title": "File Transfer Protocal",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "FY",
-    "title": "Fiscal Year"
+    "title": "Fiscal Year",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HARP",
     "title": "Healthcare Quality Information System (HCQIS) Access Roles and Profile",
-    "description": "This stack is built on Savynt (for user roles) and Okta (for authentication) as part of enterprise portal"
+    "short-desc": "This stack is built on Savynt (for user roles) and Okta (for authentication) as part of enterprise portal",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HCBS",
-    "title": "Home and Community-Based Services"
+    "title": "Home and Community-Based Services",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HCD",
-    "title": "Human Centered Design"
+    "title": "Human Centered Design",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HcDir",
-    "title": "ONC/FHA Healthcare Directory"
+    "title": "ONC/FHA Healthcare Directory",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HCERA",
-    "title": "Health Care and Education Reconciliation Act of 2010"
+    "title": "Health Care and Education Reconciliation Act of 2010",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HCQIS",
-    "title": "Healthcare Quality Information System"
+    "title": "Healthcare Quality Information System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HEDIS",
-    "title": "Healthcare Effectiveness Data and Information Set"
+    "title": "Healthcare Effectiveness Data and Information Set",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HHS",
-    "title": "Health Homes State Plan Amendment"
+    "title": "Health Homes State Plan Amendment",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HHS",
-    "title": "Health and Human Services"
+    "title": "Health and Human Services",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HHQM",
-    "title": "Health Home Quality Measures"
+    "title": "Health Home Quality Measures",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HiC",
     "title": "???",
-    "description": "related to eAPD"
+    "short-desc": "related to eAPD",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HIE",
-    "title": "Health Information Exchange"
+    "title": "Health Information Exchange",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HIO",
-    "title": "Health Information Organization"
+    "title": "Health Information Organization",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HIPAA",
-    "title": "Health Insurance Portability and Accountability Act"
+    "title": "Health Insurance Portability and Accountability Act",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HIS",
-    "title": "Hospital Information System"
+    "title": "Hospital Information System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HIT",
-    "title": "Health Information Technology"
+    "title": "Health Information Technology",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HITECH",
-    "title": "Health Information Technology for Economic and Clinical Health Act"
+    "title": "Health Information Technology for Economic and Clinical Health Act",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HITECH TA",
-    "title": "Health Information Technology for Economic and Clinical Technical Assistance"
+    "title": "Health Information Technology for Economic and Clinical Technical Assistance",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HL7",
-    "title": "Health Level Seven International"
+    "title": "Health Level Seven International",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HPD",
-    "title": "Healthcare Provider Directory"
+    "title": "Healthcare Provider Directory",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HHSPA",
-    "title": "Health Homes State Plan Amendment"
+    "title": "Health Homes State Plan Amendment",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HPSA",
-    "title": "Health Professional Shortage Area"
+    "title": "Health Professional Shortage Area",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HPSDA",
-    "title": "Health Professional Shortage Area"
+    "title": "Health Professional Shortage Area",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HRSA",
-    "title": "Health Resources and Services Administration"
+    "title": "Health Resources and Services Administration",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "HTML",
-    "title": "Hyper Text Markup Language"
+    "title": "Hyper Text Markup Language",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IAP",
     "title": "Medicaid Innovation Accelerator Program",
-    "description": "Seeks to offer targeted technical support and solutions to Medicaid agencies in building and strengthening their data analytic capacity as they design and implement delivery system reforms. In addition, IAP seeks to develop standard solutions using common data sets for states’ use in delivering improved care and driving smarter spending."
+    "short-desc": "Seeks to offer targeted technical support and solutions to Medicaid agencies in building and strengthening their data analytic capacity as they design and implement delivery system reforms. In addition, IAP seeks to develop standard solutions using common data sets for states’ use in delivering improved care and driving smarter spending.",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IAPD",
-    "title": "Implentation Advanced Planning Document"
+    "title": "Implentation Advanced Planning Document",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IAPD-U",
-    "title": "Implentation Advanced Planning Document-Update"
+    "title": "Implentation Advanced Planning Document-Update",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ICD-10",
-    "title": "International Classification of Diseases, Tenth Revision"
+    "title": "International Classification of Diseases, Tenth Revision",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ICM",
-    "title": "Integrated Care Model"
+    "title": "Integrated Care Model",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ID",
-    "title": "Identifier"
+    "title": "Identifier",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IG",
-    "title": "Implementation Guide"
+    "title": "Implementation Guide",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IHE",
-    "title": "Integrating the Healthcare Enterprise"
+    "title": "Integrating the Healthcare Enterprise",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IHS",
-    "title": "Indian Health Service"
+    "title": "Indian Health Service",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IIS",
-    "title": "Immunization Information System"
+    "title": "Immunization Information System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IOM",
-    "title": "Institute of Medicine"
+    "title": "Institute of Medicine",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IR",
-    "title": "Immunization Registry"
+    "title": "Immunization Registry",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IRAI",
-    "title": "Informal RAI (Resident Assessment Instrument)"
+    "title": "Informal RAI (Resident Assessment Instrument)",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IRD",
-    "title": "Introductory Reference Document"
+    "title": "Introductory Reference Document",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IRS",
-    "title": "Internal Revenue Service"
+    "title": "Internal Revenue Service",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IT",
-    "title": "Information Technology"
+    "title": "Information Technology",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "IV&V",
-    "title": "Independent Verification & Validation"
+    "title": "Independent Verification & Validation",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "JAD",
-    "title": "Joint application development sessions"
+    "title": "Joint application development sessions",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "LOINC",
-    "title": "Logical Observation Identifiers, Names and Codes"
+    "title": "Logical Observation Identifiers, Names and Codes",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MACBIS",
-    "title": "Medicaid and CHIP Business Information Solution"
+    "title": "Medicaid and CHIP Business Information Solution",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MACPro",
     "title": "Medicaid and CHIP Program",
-    "description": "Also sometimes used as the name of the system supporting MACPro built in Appian"
+    "short-desc": "Also sometimes used as the name of the system supporting MACPro built in Appian",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MAGI",
-    "title": "Modified Adjusted Gross Income"
+    "title": "Modified Adjusted Gross Income",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MAPIR",
-    "title": "Medical Assistance Provider Incentive Repository"
+    "title": "Medical Assistance Provider Incentive Repository",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MBES",
-    "title": "Medicaid Budget and Expenditure System"
+    "title": "Medicaid Budget and Expenditure System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "Mbps",
-    "title": "Megabits per second"
+    "title": "Megabits per second",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MC-CRS",
-    "title": "Managed Care Contract Rates System"
+    "title": "Managed Care Contract Rates System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MCC",
-    "title": "Managed Care Contract"
+    "title": "Managed Care Contract",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MCCR",
-    "title": "Managed Care Contract Rates"
+    "title": "Managed Care Contract Rates",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MCO",
-    "title": "Managed Care Organization"
+    "title": "Managed Care Organization",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MD",
-    "title": "Medical Doctor"
+    "title": "Medical Doctor",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MDR",
-    "title": "Medicaid Drug Rebate"
+    "title": "Medicaid Drug Rebate",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MDS",
-    "title": "Minimum Data Set"
+    "title": "Minimum Data Set",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MeT",
-    "title": "Medicaid Electronic Health Record (EHR) Team"
+    "title": "Medicaid Electronic Health Record (EHR) Team",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MES",
-    "title": "Medicaid Enterprise System"
+    "title": "Medicaid Enterprise System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MFCU",
-    "title": "Medicaid Fraud Control Unit"
+    "title": "Medicaid Fraud Control Unit",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MiHIN",
-    "title": "Michigan Health Information Network"
+    "title": "Michigan Health Information Network",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MIHQM",
-    "title": "Maternal and Infant Health Quality Measures"
+    "title": "Maternal and Infant Health Quality Measures",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MIME",
-    "title": "Multipurpose Internet Mail Extensions"
+    "title": "Multipurpose Internet Mail Extensions",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MITA",
-    "title": "Medicaid Information Technology Architecture"
+    "title": "Medicaid Information Technology Architecture",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MMDL",
     "title": "Medicaid Model Data Lab",
-    "description": "One of the five separate systems within MACPro to manage Eligibility and Benefits sections of the Medicaid State plan, CHIP Eligibility, and reporting of Medicaid program data"
+    "short-desc": "One of the five separate systems within MACPro to manage Eligibility and Benefits sections of the Medicaid State plan, CHIP Eligibility, and reporting of Medicaid program data",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MMIS",
-    "title": "Medicaid Management Information System"
+    "title": "Medicaid Management Information System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MPD",
-    "title": "Master Provider Directory"
+    "title": "Master Provider Directory",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MPI",
-    "title": "Master Provider Index"
+    "title": "Master Provider Index",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MPC",
-    "title": "Medicaid Premiums and Cost Sharing"
+    "title": "Medicaid Premiums and Cost Sharing",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MPS",
-    "title": "Medicaid Payment Suspensions State Annual Report"
+    "title": "Medicaid Payment Suspensions State Annual Report",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MSIA",
-    "title": "Medicaid Services Investment and Accountability Act of 2019"
+    "title": "Medicaid Services Investment and Accountability Act of 2019",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MSP",
-    "title": "Medicaid State Plan"
+    "title": "Medicaid State Plan",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "MU",
-    "title": "Meaningful Use"
+    "title": "Meaningful Use",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "NLR",
     "title": "National Level Repository",
-    "description": "CMS Registration and Attestation Module"
+    "short-desc": "CMS Registration and Attestation Module",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "NP",
-    "title": "Nurse Practitioner"
+    "title": "Nurse Practitioner",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "NPI",
-    "title": "National Provider Identifier"
+    "title": "National Provider Identifier",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "NPPES",
-    "title": "National Plan and Provider Enumeration System"
+    "title": "National Plan and Provider Enumeration System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "NQF",
-    "title": "Nationwide Health Information Network"
+    "title": "Nationwide Health Information Network",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "NQS",
-    "title": "National Quality Strategy"
+    "title": "National Quality Strategy",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "NwHIN",
-    "title": "Nationwide Health Information Network"
+    "title": "Nationwide Health Information Network",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "OB",
-    "title": "Obstetrician"
+    "title": "Obstetrician",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "OCR",
-    "title": "Optical Character Recognition"
+    "title": "Optical Character Recognition",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "OIG",
-    "title": "Office of the Inspector General"
+    "title": "Office of the Inspector General",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "OKR",
-    "title": "Objectives and Key Results"
+    "title": "Objectives and Key Results",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "OMB",
-    "title": "Office of Management & Budget"
+    "title": "Office of Management & Budget",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ONC",
-    "title": "Office of the National Coordinator for Health IT"
+    "title": "Office of the National Coordinator for Health IT",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "OSG",
     "title": "Operation Services Group",
-    "description": "One of seven groups within CMCS"
+    "short-desc": "One of seven groups within CMCS",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PA",
     "title": "Package Approver",
-    "description": "MACPro CMS role"
+    "short-desc": "MACPro CMS role",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PA",
-    "title": "Physician Assistant"
+    "title": "Physician Assistant",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PaaS",
-    "title": "Platform as a service"
+    "title": "Platform as a service",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PAHP",
     "title": "Prepaid Ambulatory Health Plan",
-    "description": "a managed care plan"
+    "short-desc": "a managed care plan",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PAPD",
-    "title": "Planning Advance  Planning Document"
+    "title": "Planning Advance  Planning Document",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PCMH",
-    "title": "Patient Centered Medical Home"
+    "title": "Patient Centered Medical Home",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PCP",
-    "title": "Primary Care Provider"
+    "title": "Primary Care Provider",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PCPM",
-    "title": "Primary Care Payment Model"
+    "title": "Primary Care Payment Model",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PECOS",
-    "title": "Provider Enrollment, Chain, Ownership System"
+    "title": "Provider Enrollment, Chain, Ownership System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PHA",
-    "title": "Public Health Agency"
+    "title": "Public Health Agency",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PHI",
-    "title": "Personal Health Information"
+    "title": "Personal Health Information",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PHR",
-    "title": "Personal Health Record"
+    "title": "Personal Health Record",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PIHP",
     "title": "Prepaid Inpatient Health Plan",
-    "description": "a managed care plan"
+    "short-desc": "a managed care plan",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PIP",
-    "title": "Promoting Interoperability Program"
+    "title": "Promoting Interoperability Program",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PMDA",
-    "title": "Pharmaceuticals and Medical Devices Agency"
+    "title": "Pharmaceuticals and Medical Devices Agency",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PMDA",
-    "title": "Performance Management Database and Analytics"
+    "title": "Performance Management Database and Analytics",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "POC",
-    "title": "Point of Contact"
+    "title": "Point of Contact",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "POC",
     "title": "Proof of Concept",
-    "description": "Verifying that some concept or theory has practical potential. It is usually small and may or may not be complete."
+    "short-desc": "Verifying that some concept or theory has practical potential. It is usually small and may or may not be complete.",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "POS",
-    "title": "Place of Service"
+    "title": "Place of Service",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PP",
-    "title": "Practicing Predominantly"
+    "title": "Practicing Predominantly",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PQRS",
-    "title": "Physician Quality Reporting System"
+    "title": "Physician Quality Reporting System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PRA",
-    "title": "Paperwork Reduction Act of 1995"
+    "title": "Paperwork Reduction Act of 1995",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PROM",
-    "title": "Patient Reported Outcome Measures"
+    "title": "Patient Reported Outcome Measures",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PD",
-    "title": "Package Disapprover"
+    "title": "Package Disapprover",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "PV",
-    "title": "Patient Volume"
+    "title": "Patient Volume",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "QA",
-    "title": "Quality Assurance"
+    "title": "Quality Assurance",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "QM",
     "title": "Quality Measures",
-    "description": "In reference to quality measure reporting"
+    "short-desc": "In reference to quality measure reporting",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "QMR",
-    "title": "Quality Measures Reporting"
+    "title": "Quality Measures Reporting",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "QMS",
-    "title": "Quality Management System"
+    "title": "Quality Management System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "QRDA-I",
-    "title": "Quality Reporting Document Architecture - Category I"
+    "title": "Quality Reporting Document Architecture - Category I",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "QRDA-III",
-    "title": "Quality Reporting Document Architecture - Category III"
+    "title": "Quality Reporting Document Architecture - Category III",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "R&A",
-    "title": "Registration and Attestation"
+    "title": "Registration and Attestation",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "R&S UI",
-    "title": "Research & Support User Interface"
+    "title": "Research & Support User Interface",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "RAI",
     "title": "Resident Assessment Instrument",
-    "description": "RAI/MDS provides data for monitoring changes in resident status that are consistent and reliable over time."
+    "short-desc": "RAI/MDS provides data for monitoring changes in resident status that are consistent and reliable over time.",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "RAI",
     "title": "Request for Additional Information",
-    "description": "Possible CMS action for Official SPA Submission Package during submission process",
+    "short-desc": "Possible CMS action for Official SPA Submission Package during submission process",
     "priority":1
   },
   {
     "abbreviation": "RAC",
-    "title": "Recovery Audit Contractor"
+    "title": "Recovery Audit Contractor",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "RBAC",
-    "title": "Role-based access control"
+    "title": "Role-based access control",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "RBRVS",
-    "title": "Resource-Based Relative Value Scale"
+    "title": "Resource-Based Relative Value Scale",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "REC",
-    "title": "Regional Extension Center"
+    "title": "Regional Extension Center",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "RFI",
-    "title": "Request for Information"
+    "title": "Request for Information",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "RFID",
-    "title": "Radio Frequency Identification"
+    "title": "Radio Frequency Identification",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "RFP",
-    "title": "Request for Proposal"
+    "title": "Request for Proposal",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "RHC",
-    "title": "Rural Health Clinic"
+    "title": "Rural Health Clinic",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "RHC",
-    "title": "Rural Health Center"
+    "title": "Rural Health Center",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "RLS",
-    "title": "Record Locator Service"
+    "title": "Record Locator Service",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "RO",
-    "title": "Regional Office"
+    "title": "Regional Office",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "ROG",
     "title": "Regional Office Group",
-    "description": "One of seven groups within CMCS"
+    "short-desc": "One of seven groups within CMCS",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "RU",
     "title": "Reviewable Unit",
-    "description": "Information which must be reviewed and adjudicated together.  When a state sends a submission package (SPA, 1115 demonstration, 1915(c) waiver, etc.) to CMS for approval, all of the options selected, assurances and statements in one reviewable unit (RU) is subject to scrutiny and must be accurate and complete in order for CMS to approve it."
+    "short-desc": "Information which must be reviewed and adjudicated together.  When a state sends a submission package (SPA, 1115 demonstration, 1915(c) waiver, etc.) to CMS for approval, all of the options selected, assurances and statements in one reviewable unit (RU) is subject to scrutiny and must be accurate and complete in order for CMS to approve it.",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "S&CC",
-    "title": "Standards and Certification Criteria"
+    "title": "Standards and Certification Criteria",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SaaS",
-    "title": "Software as a service"
+    "title": "Software as a service",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SDE",
-    "title": "State Designated Entity"
+    "title": "State Designated Entity",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SDF",
     "title": "Structured Data Forms",
-    "description": "An excel spreadsheet written for each RU in MACPro as means of communication between business owners and developers to detail exact language, order of statements and options, dependencies, and additional instructions"
+    "short-desc": "An excel spreadsheet written for each RU in MACPro as means of communication between business owners and developers to detail exact language, order of statements and options, dependencies, and additional instructions",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SDG",
     "title": "State Demonstrations Group",
-    "description": "One of seven groups within CMCS"
+    "short-desc": "One of seven groups within CMCS",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SDIR",
     "title": "State Director",
-    "description": "MACPro State role"
+    "short-desc": "MACPro State role",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SDLC",
-    "title": "Software Development Life Cycle"
+    "title": "Software Development Life Cycle",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SE",
     "title": "State Editor",
-    "description": "MACPro State role"
+    "short-desc": "MACPro State role",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SEA Tool",
     "title": "State Early Alert Tool",
-    "description": "One of the five separate systems within MACPro"
+    "short-desc": "One of the five separate systems within MACPro",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SEDS",
     "title": "Children’s Health Insurance Program Statistical Enrollment Data Systems",
-    "description": "One of the five separate systems within MACPro"
+    "short-desc": "One of the five separate systems within MACPro",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SHARP",
-    "title": "Strategic Health IT Advanced Research Projects"
+    "title": "Strategic Health IT Advanced Research Projects",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SIM",
-    "title": "State Innovation Model"
+    "title": "State Innovation Model",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SLR",
-    "title": "State Level Repository"
+    "title": "State Level Repository",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SMA",
-    "title": "State Medicaid Agency"
+    "title": "State Medicaid Agency",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SMDL",
-    "title": "State Medicaid Director's Letter"
+    "title": "State Medicaid Director's Letter",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SMHP",
-    "title": "State Medicaid Health Information Technology Plan"
+    "title": "State Medicaid Health Information Technology Plan",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SNOMED CT",
-    "title": "Systemized Nomenclature of Medicine - Clinical Terms"
+    "title": "Systemized Nomenclature of Medicine - Clinical Terms",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SOA",
-    "title": "Service Oriented Architecture"
+    "title": "Service Oriented Architecture",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SOP",
-    "title": "Standard Operating Procedure"
+    "title": "Standard Operating Procedure",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SPA",
-    "title": "State Plan Amendment"
+    "title": "State Plan Amendment",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SPOC",
     "title": "State Point of Contact",
-    "description": "MACPro State role"
+    "short-desc": "MACPro State role",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SRT",
     "title": "Submission Review Team",
-    "description": "MACPro CMS role"
+    "short-desc": "MACPro CMS role",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SRRVW",
     "title": "Senior (Sr.) Reviewer",
-    "description": "MACPro CMS role"
+    "short-desc": "With in the MACPro (Appian) legacy system, this refers to a specific role for a CMS user.",
+    "projects":[
+      {"name":"MACStack"}
+    ],
+    "tags":[
+      "MACPRO","MACPro (Appian)","CMS","CMCS","System Role","Legacy"
+    ]
   },
   {
     "abbreviation": "SSA",
     "title": "State System Administrator",
-    "description": "MACPro State role"
+    "short-desc": "MACPro State role",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SSA",
-    "title": "Social Security Act"
+    "title": "Social Security Act",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "SSO",
-    "title": "Single sign-on"
+    "title": "Single sign-on",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "T-MSIS",
-    "title": "Transformed Medicaid Statistical Information System"
+    "title": "Transformed Medicaid Statistical Information System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "TA",
-    "title": "Technical Assistance"
+    "title": "Technical Assistance",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "TCP/IP",
-    "title": "Transmission Control Protocol/Internet Protocol"
+    "title": "Transmission Control Protocol/Internet Protocol",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "TIN",
-    "title": "Tax Identification Number"
+    "title": "Tax Identification Number",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "TN",
-    "title": "Transmittal Number"
+    "title": "Transmittal Number",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "TOC",
-    "title": "Transitions of Care"
+    "title": "Transitions of Care",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "UDDI",
-    "title": "Universal Discovery and Description Interface"
+    "title": "Universal Discovery and short-desc Interface",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "URG",
-    "title": "User Requirements Group"
+    "title": "User Requirements Group",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "USWDS",
-    "title": "United States Web Design System"
+    "title": "United States Web Design System",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "VBP",
-    "title": "Value Based Payment"
+    "title": "Value Based Payment",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "VPN",
-    "title": "Virtual Private Network"
+    "title": "Virtual Private Network",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "WMS",
     "title": "Waiver Management System",
-    "description": "WMS is the system to manage Medicaid State plan waiver programs. One of the five separate systems within MACPro."
+    "short-desc": "WMS is the system to manage Medicaid State plan waiver programs. One of the five separate systems within MACPro.",
+    "projects":[
+      {"name":"MACStack"}
+    ],
+    "tags":[
+      "MACPRO","CMS","CMCS","System","Legacy"
+    ]
   },
   {
     "abbreviation": "WRQ",
-    "title": "Worker Rehabilitation Questionnaire??"
+    "title": "Worker Rehabilitation Questionnaire??",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "XDS",
-    "title": "Cross-enterprise Document Sharing"
+    "title": "Cross-enterprise Document Sharing",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "XML",
-    "title": "Extensible Markup Language"
+    "title": "Extensible Markup Language",
+    "projects":[
+      {"name":"MACStack"}
+    ]
   },
   {
     "abbreviation": "XSD",
-    "title": "Cross-enterprise Document Sharing"
-  }
+    "title": "Cross-enterprise Document Sharing",
+    "projects":[
+      {"name":"MACStack"}
+    ]
+  },
 ]
