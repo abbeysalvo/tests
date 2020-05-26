@@ -30,7 +30,7 @@
   {
     "abbreviation": "ACA",
     "title": "Affordable Care Act",
-    "short-desc": "Patient Protection and Affordable Care Act of 2010",
+    "shortdesc": "Patient Protection and Affordable Care Act of 2010",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -206,7 +206,7 @@
   {
     "abbreviation": "CARTS",
     "title": "Children’s Health Insurance Program Annual Report Template System",
-    "short-desc": "One of the five separate systems within MACPro",
+    "shortdesc": "One of the five separate systems within MACPro",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -214,7 +214,7 @@
   {
     "abbreviation": "CAHPG",
     "title": "Children and Adults Health Programs Group",
-    "short-desc": "One of seven groups within CMCS",
+    "shortdesc": "One of seven groups within CMCS",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -341,7 +341,7 @@
   {
     "abbreviation": "CMCS",
     "title": "Center for Medicaid and CHIP (Children’s Health Insurance) Services",
-    "short-desc": "Responsible for the administration of the Medicaid and CHIP programs, in partnership with 50 states, DC, and five territories",
+    "shortdesc": "Responsible for the administration of the Medicaid and CHIP programs, in partnership with 50 states, DC, and five territories",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -396,7 +396,7 @@
   {
     "abbreviation": "CPOC",
     "title": "CMS Point of Contact",
-    "short-desc": "MACPro CMS role",
+    "shortdesc": "MACPro CMS role",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -411,7 +411,7 @@
   {
     "abbreviation": "CPT",
     "title": "Current Procedural Terminology",
-    "short-desc": "Applies to CPT codes",
+    "shortdesc": "Applies to CPT codes",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -482,7 +482,7 @@
   {
     "abbreviation": "DEHPG",
     "title": "Disabled and Elderly Health Programs Group",
-    "short-desc": "One of seven groups within CMCS",
+    "shortdesc": "One of seven groups within CMCS",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -497,7 +497,7 @@
   {
     "abbreviation": "Drools",
     "title": "Data and Systems Group",
-    "short-desc": "Business rule management system, aka a production rule system, using an enhanced implementation of the Rete algorithm",
+    "shortdesc": "Business rule management system, aka a production rule system, using an enhanced implementation of the Rete algorithm",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -505,7 +505,7 @@
   {
     "abbreviation": "DSG",
     "title": "Data and Systems Group",
-    "short-desc": "One of seven groups within CMCS",
+    "shortdesc": "One of seven groups within CMCS",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -569,7 +569,7 @@
   {
     "abbreviation": "EG",
     "title": "Eligibility Group",
-    "short-desc": "Normally followed by a priority number",
+    "shortdesc": "Normally followed by a priority number",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -745,7 +745,7 @@
   {
     "abbreviation": "FMG",
     "title": "Financial Management Group",
-    "short-desc": "One of seven groups within CMCS",
+    "shortdesc": "One of seven groups within CMCS",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -781,7 +781,7 @@
   {
     "abbreviation": "HARP",
     "title": "Healthcare Quality Information System (HCQIS) Access Roles and Profile",
-    "short-desc": "This stack is built on Savynt (for user roles) and Okta (for authentication) as part of enterprise portal",
+    "shortdesc": "This stack is built on Savynt (for user roles) and Okta (for authentication) as part of enterprise portal",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -852,7 +852,7 @@
   {
     "abbreviation": "HiC",
     "title": "???",
-    "short-desc": "related to eAPD",
+    "shortdesc": "related to eAPD",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -958,7 +958,7 @@
   {
     "abbreviation": "IAP",
     "title": "Medicaid Innovation Accelerator Program",
-    "short-desc": "Seeks to offer targeted technical support and solutions to Medicaid agencies in building and strengthening their data analytic capacity as they design and implement delivery system reforms. In addition, IAP seeks to develop standard solutions using common data sets for states’ use in delivering improved care and driving smarter spending.",
+    "shortdesc": "Seeks to offer targeted technical support and solutions to Medicaid agencies in building and strengthening their data analytic capacity as they design and implement delivery system reforms. In addition, IAP seeks to develop standard solutions using common data sets for states’ use in delivering improved care and driving smarter spending.",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1099,7 +1099,7 @@
   {
     "abbreviation": "MACPro",
     "title": "Medicaid and CHIP Program",
-    "short-desc": "Also sometimes used as the name of the system supporting MACPro built in Appian",
+    "shortdesc": "Also sometimes used as the name of the system supporting MACPro built in Appian",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1233,7 +1233,7 @@
   {
     "abbreviation": "MMDL",
     "title": "Medicaid Model Data Lab",
-    "short-desc": "One of the five separate systems within MACPro to manage Eligibility and Benefits sections of the Medicaid State plan, CHIP Eligibility, and reporting of Medicaid program data",
+    "shortdesc": "One of the five separate systems within MACPro to manage Eligibility and Benefits sections of the Medicaid State plan, CHIP Eligibility, and reporting of Medicaid program data",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1297,7 +1297,7 @@
   {
     "abbreviation": "NLR",
     "title": "National Level Repository",
-    "short-desc": "CMS Registration and Attestation Module",
+    "shortdesc": "CMS Registration and Attestation Module",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1389,7 +1389,7 @@
   {
     "abbreviation": "OSG",
     "title": "Operation Services Group",
-    "short-desc": "One of seven groups within CMCS",
+    "shortdesc": "One of seven groups within CMCS",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1397,7 +1397,7 @@
   {
     "abbreviation": "PA",
     "title": "Package Approver",
-    "short-desc": "MACPro CMS role",
+    "shortdesc": "MACPro CMS role",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1419,7 +1419,7 @@
   {
     "abbreviation": "PAHP",
     "title": "Prepaid Ambulatory Health Plan",
-    "short-desc": "a managed care plan",
+    "shortdesc": "a managed care plan",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1483,7 +1483,7 @@
   {
     "abbreviation": "PIHP",
     "title": "Prepaid Inpatient Health Plan",
-    "short-desc": "a managed care plan",
+    "shortdesc": "a managed care plan",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1519,7 +1519,7 @@
   {
     "abbreviation": "POC",
     "title": "Proof of Concept",
-    "short-desc": "Verifying that some concept or theory has practical potential. It is usually small and may or may not be complete.",
+    "shortdesc": "Verifying that some concept or theory has practical potential. It is usually small and may or may not be complete.",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1583,7 +1583,7 @@
   {
     "abbreviation": "QM",
     "title": "Quality Measures",
-    "short-desc": "In reference to quality measure reporting",
+    "shortdesc": "In reference to quality measure reporting",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1633,7 +1633,7 @@
   {
     "abbreviation": "RAI",
     "title": "Resident Assessment Instrument",
-    "short-desc": "RAI/MDS provides data for monitoring changes in resident status that are consistent and reliable over time.",
+    "shortdesc": "RAI/MDS provides data for monitoring changes in resident status that are consistent and reliable over time.",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1641,7 +1641,7 @@
   {
     "abbreviation": "RAI",
     "title": "Request for Additional Information",
-    "short-desc": "Possible CMS action for Official SPA Submission Package during submission process",
+    "shortdesc": "Possible CMS action for Official SPA Submission Package during submission process",
     "priority":1
   },
   {
@@ -1724,7 +1724,7 @@
   {
     "abbreviation": "ROG",
     "title": "Regional Office Group",
-    "short-desc": "One of seven groups within CMCS",
+    "shortdesc": "One of seven groups within CMCS",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1732,7 +1732,7 @@
   {
     "abbreviation": "RU",
     "title": "Reviewable Unit",
-    "short-desc": "Information which must be reviewed and adjudicated together.  When a state sends a submission package (SPA, 1115 demonstration, 1915(c) waiver, etc.) to CMS for approval, all of the options selected, assurances and statements in one reviewable unit (RU) is subject to scrutiny and must be accurate and complete in order for CMS to approve it.",
+    "shortdesc": "Information which must be reviewed and adjudicated together.  When a state sends a submission package (SPA, 1115 demonstration, 1915(c) waiver, etc.) to CMS for approval, all of the options selected, assurances and statements in one reviewable unit (RU) is subject to scrutiny and must be accurate and complete in order for CMS to approve it.",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1761,7 +1761,7 @@
   {
     "abbreviation": "SDF",
     "title": "Structured Data Forms",
-    "short-desc": "An excel spreadsheet written for each RU in MACPro as means of communication between business owners and developers to detail exact language, order of statements and options, dependencies, and additional instructions",
+    "shortdesc": "An excel spreadsheet written for each RU in MACPro as means of communication between business owners and developers to detail exact language, order of statements and options, dependencies, and additional instructions",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1769,7 +1769,7 @@
   {
     "abbreviation": "SDG",
     "title": "State Demonstrations Group",
-    "short-desc": "One of seven groups within CMCS",
+    "shortdesc": "One of seven groups within CMCS",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1777,7 +1777,7 @@
   {
     "abbreviation": "SDIR",
     "title": "State Director",
-    "short-desc": "MACPro State role",
+    "shortdesc": "MACPro State role",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1792,7 +1792,7 @@
   {
     "abbreviation": "SE",
     "title": "State Editor",
-    "short-desc": "MACPro State role",
+    "shortdesc": "MACPro State role",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1800,7 +1800,7 @@
   {
     "abbreviation": "SEA Tool",
     "title": "State Early Alert Tool",
-    "short-desc": "One of the five separate systems within MACPro",
+    "shortdesc": "One of the five separate systems within MACPro",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1808,7 +1808,7 @@
   {
     "abbreviation": "SEDS",
     "title": "Children’s Health Insurance Program Statistical Enrollment Data Systems",
-    "short-desc": "One of the five separate systems within MACPro",
+    "shortdesc": "One of the five separate systems within MACPro",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1886,7 +1886,7 @@
   {
     "abbreviation": "SPOC",
     "title": "State Point of Contact",
-    "short-desc": "MACPro State role",
+    "shortdesc": "MACPro State role",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1894,7 +1894,7 @@
   {
     "abbreviation": "SRT",
     "title": "Submission Review Team",
-    "short-desc": "MACPro CMS role",
+    "shortdesc": "MACPro CMS role",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1902,7 +1902,7 @@
   {
     "abbreviation": "SRRVW",
     "title": "Senior (Sr.) Reviewer",
-    "short-desc": "With in the MACPro (Appian) legacy system, this refers to a specific role for a CMS user.",
+    "shortdesc": "With in the MACPro (Appian) legacy system, this refers to a specific role for a CMS user.",
     "projects":[
       {"name":"MACStack"}
     ],
@@ -1913,7 +1913,7 @@
   {
     "abbreviation": "SSA",
     "title": "State System Administrator",
-    "short-desc": "MACPro State role",
+    "shortdesc": "MACPro State role",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -1976,7 +1976,7 @@
   },
   {
     "abbreviation": "UDDI",
-    "title": "Universal Discovery and short-desc Interface",
+    "title": "Universal Discovery and shortdesc Interface",
     "projects":[
       {"name":"MACStack"}
     ]
@@ -2012,7 +2012,7 @@
   {
     "abbreviation": "WMS",
     "title": "Waiver Management System",
-    "short-desc": "WMS is the system to manage Medicaid State plan waiver programs. One of the five separate systems within MACPro.",
+    "shortdesc": "WMS is the system to manage Medicaid State plan waiver programs. One of the five separate systems within MACPro.",
     "projects":[
       {"name":"MACStack"}
     ],
